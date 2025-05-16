@@ -28,7 +28,7 @@ This project aims to solve these problems using real Instagram engagement data.
 
 📦 Instagram-Analytics-SQL-PowerBI
 
-─ sqlqueries.dox  - All 10 SQL questions with answers
-                   dashboard_screenshots 
+─ sqlqueries.dox  - SQL questions with answers with
+                    dashboard screenshots 
                    
 ─ Video Explaination- https://drive.google.com/drive/folders/1o3hDHrsIqZMXJ_OrHbaIqvPCL3fwdLGl
